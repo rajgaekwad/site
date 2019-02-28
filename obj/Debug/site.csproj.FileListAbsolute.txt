@@ -32,6 +32,8 @@ E:\site\site\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
 E:\site\site\bin\DotNetOpenAuth.AspNet.xml
 E:\site\site\bin\Microsoft.AspNet.Membership.OpenAuth.xml
 E:\site\site\bin\Microsoft.AspNet.FriendlyUrls.xml
-E:\site\site\obj\Debug\site.csprojResolveAssemblyReference.cache
 E:\site\site\obj\Debug\site.dll
 E:\site\site\obj\Debug\site.pdb
+E:\site\site\obj\Debug\site.csprojAssemblyReference.cache
+E:\site\site\obj\Debug\site.csproj.CoreCompileInputs.cache
+E:\site\site\obj\Debug\site.csproj.CopyComplete
